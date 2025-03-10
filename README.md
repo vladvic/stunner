@@ -1,3 +1,15 @@
+From reddit:
+mediasoup in Kubernetes without hostNetwork: true
+Hi folks,
+
+in our open-source project STUNner we just shipped our newest tutorial on how to deploy mediasoup into Kubernetes without using hostNetwork: true. This means you can have as many mediasoup pods as you want on the same Kubernetes node, this feature enables all the goodies that a standard Kubernetes cluster would offer such as load-balancing, security, scalability and so on.
+
+Check out the demo here: https://github.com/l7mp/stunner/tree/main/docs/examples/mediasoup
+
+Check out the project here: https://github.com/l7mp/stunner
+
+
+
 <p align="center">
   <img alt="STUNner", src="docs/img/stunner.svg" width="50%" height="50%"></br>
   <a href="https://discord.gg/DyPgEsbwzc" alt="Discord">
