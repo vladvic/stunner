@@ -1,7 +1,7 @@
 # STUNner documentation
 
 <p align="center">
-  <img alt="STUNner", src="img/stunner.svg" width="50%" height="50%"></br>
+  ![STUNner](img/stunner.svg "Stunner Logo")
 </p>
 
 *Note: This page documents the latest development version of STUNner. See the documentation for the stable version [here](https://docs.l7mp.io/en/stable).*
